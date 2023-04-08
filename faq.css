@@ -1,0 +1,14 @@
+.faq-element {
+    background-color: #fff;
+    color: #1C1A1A;
+    font-weight: 700;
+    font-size: 24px;
+    padding: 30px 70px;
+    margin-bottom: 20px;
+}
+
+.faq-element:nth-child(even) {
+    color: #fff;
+    background-color: #440f51;
+    
+}
